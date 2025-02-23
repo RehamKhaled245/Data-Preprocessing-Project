@@ -39,8 +39,6 @@ Google Play Store hosts a wide variety of applications, offering a wealth of dat
 | 🏷️ **Column Name** | 💡 **Description** |  
 |-------------------|-----------------|  
 | Application name  | Name of the app  |  
-| Sort ascending    | Sort in ascending order |  
-| Sort descending   | Sort in descending order |  
 | Category          | Category of the app  |  
 | Rating            | Overall user rating |  
 | Reviews           | Number of user reviews |  
@@ -70,11 +68,6 @@ Google Play Store hosts a wide variety of applications, offering a wealth of dat
 
 ## 📝 **Results**  
 This project provides key insights into Google Play Store apps, including the most popular genres, app size distributions, and correlations between app ratings, reviews, size, and price. Additionally, it estimates potential revenue for highly downloaded apps.
-
----
-
-## 💼 **Contributors**  
-- **Riham** – Project Owner and Developer  
 
 ---
 
